@@ -1,6 +1,6 @@
 ﻿# EnterConnection
 
-## API:https://www.kaggle.com/code/mohamedhany777/eda-supermarket-sales
+## API:https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 
 
 ### - Irei explicar , de forma breve, o funcionamento dos recursos/ferramentas dentro da aplicação que será desenvolvida.
