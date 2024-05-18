@@ -22,7 +22,7 @@ o sexto Bloco separamos as impresas RUINS das BOAS ;
 
 ### - Irei dizer resumidamente de que forma os conceitos de Machine Learning / IA estão sendo utilizados no desenvolvimento do projeto.
 
-Estamos pegando dados e tratando ele de forma que a IA fica mais dinamica para enternder qual é o melhor e o pior cliente, para otimiza 
+Estamos pegando dados e tratando ele de forma que a IA fica mais dinamica para entender qual é o melhor e o pior cliente, com tudo otimizar
 os ganhos e o desenpenho da empresa.
 
 
