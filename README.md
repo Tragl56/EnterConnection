@@ -9,15 +9,15 @@ O codigo está simples com apenas algumas mudanças, mas , está longe de ser o 
 
 O primerio Bloco é só os "IMPORT" das ferramentas que iremos usar;
 
-O segundo Bloco pegamos o arquivo e vemos se está "OK" com ele;
+O segundo codico  pegamos o arquivo e vemos se está "OK" com ele;
 
-O terceiro Bloco vemos as colunas dele e pegaremos algumas;
+O terceiro vemos as colunas dele e pegaremos algumas;
 
-O quarto Bloco pegamos as colunas "City", "Total", "Rating";
+O quarto operação pegamos as colunas "City", "Total", "Rating";
 
-O quinto Bloco pegamos a Média que é "6.9727";
+No quinto  pegamos a Média que é "6.9727";
 
-o sexto Bloco separamos as impresas RUINS das BOAS ;
+E no sexto separamos as impresas RUINS das BOAS ;
 
 
 ### - Irei dizer resumidamente de que forma os conceitos de Machine Learning / IA estão sendo utilizados no desenvolvimento do projeto.
