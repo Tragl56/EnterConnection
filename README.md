@@ -1,7 +1,7 @@
 ﻿# EnterConnection
 
-## API: 
-link:https://www.kaggle.com/code/mohamedhany777/eda-supermarket-sales
+## API:https://www.kaggle.com/code/mohamedhany777/eda-supermarket-sales
+
 
 ### * Irei explicar , de forma breve, o funcionamento dos recursos/ferramentas dentro da aplicação que será desenvolvida.
 
