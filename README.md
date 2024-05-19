@@ -17,7 +17,7 @@ O quarto operação pegamos as colunas "City", "Total", "Rating";
 
 No quinto  pegamos a Média que é "6.9727";
 
-E no sexto separamos as impresas RUINS das BOAS ;
+E no sexto separamos as empresas RUINS das BOAS ;
 
 
 ### - Irei dizer resumidamente de que forma os conceitos de Machine Learning / IA estão sendo utilizados no desenvolvimento do projeto.
