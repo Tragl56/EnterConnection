@@ -1,6 +1,10 @@
 ﻿# EnterConnection
 
 ## API:https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
+## LINK DO PITCH: https://youtu.be/e_yeYsXnbNc
+## DOCUMENTAÇÃO: https://onedrive.live.com/edit.aspx?resid=442b95dc06c47f3e!sc4435c51-b76f-4e00-98c6-38c4443bf086&cid=442b95dc06c47f3e&ct=1716154271228&wdOrigin=OFFICECOM-HWA.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyDesktop&wdPreviousSession=7e1b0caf-d4fa-45c8-8cc7-f5df6f2187d8
+
+
 
 
 ### - Irei explicar , de forma breve, o funcionamento dos recursos/ferramentas dentro da aplicação que será desenvolvida.
