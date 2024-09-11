@@ -21,23 +21,23 @@ O codigo está simples com apenas algumas mudanças, mas , está longe de ser o 
 
 5Bloco: pegamos a Média que é "6.9727";
 
-6Bloco: E no sexto separamos as empresas RUINS das BOAS ;
+6Bloco: separamos as empresas RUINS das BOAS ;
 
-7Bloco: Na sétima é um grafico 
+7Bloco: Mostramos um grafico ;
 
-8Bloco: adicionar novas empresas e validar as entradas do usuário para manter a integridade dos dados.
+8Bloco: adicionar novas empresas e validar as entradas do usuário para manter a integridade dos dados;
 
-9Bloco: permitem a manipulação e visualização dos dados das empresas de maneira interativa e robusta, com a validação de entradas pelo usuário e a visualização gráfica.
+9Bloco: permitem a manipulação e visualização dos dados das empresas de maneira interativa e robusta, com a validação de entradas pelo usuário e a visualização gráfica;
 
-10Bloco: que permite remover uma empresa do DataFrame contendo os dados das empresas
+10Bloco: que permite remover uma empresa do DataFrame contendo os dados das empresas;
 
-11Bloco: cria um menu interativo que permite ao usuário adicionar novas empresas ao DataFrame ou remover empresas existentes.
+11Bloco: cria um menu interativo que permite ao usuário adicionar novas empresas ao DataFrame ou remover empresas existentes;
 
-12Bloco: gerencia todo o processo de cálculo da média de avaliação das empresas, permite a adição ou remoção de empresas, recalcula a média após as alterações e reclassifica as empresas com base na nova média. 
+12Bloco: gerencia todo o processo de cálculo da média de avaliação das empresas, permite a adição ou remoção de empresas, recalcula a média após as alterações e reclassifica as empresas com base na nova média;
 
-13Bloco: tem como objetivo classificar empresas com base em uma avaliação predefinida (6,97) e categorizá-las como "Boas" ou "Ruins".
+13Bloco: tem como objetivo classificar empresas com base em uma avaliação predefinida (6,97) e categorizá-las como "Boas" ou "Ruins";
 
-14Bloco: Essa linha de código executa o fluxo principal de operações sobre o DataFrame
+14Bloco: Essa linha de código executa o fluxo principal de operações sobre o DataFrame;
 
 ### - Irei dizer resumidamente de que forma os conceitos de Machine Learning / IA estão sendo utilizados no desenvolvimento do projeto.
 
