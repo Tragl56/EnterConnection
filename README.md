@@ -44,6 +44,5 @@ O codigo está simples com apenas algumas mudanças, mas , está longe de ser o 
 Estamos pegando dados e tratando ele de forma que a IA fica mais dinamica para entender qual é o melhor e o pior cliente, com tudo otimizar
 os ganhos e o desenpenho da empresa.
 
-===============================================================================================================================================
-
+=======================================================================
 
