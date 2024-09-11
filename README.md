@@ -11,22 +11,39 @@
 
 O codigo está simples com apenas algumas mudanças, mas , está longe de ser o resultaco ou o projeto final está mais para BETA.
 
-O primerio Bloco é só os "IMPORT" das ferramentas que iremos usar;
+1Bloco: é só os "IMPORT" das ferramentas que iremos usar;
 
-O segundo codico  pegamos o arquivo e vemos se está "OK" com ele;
+2Bloco: codico  pegamos o arquivo e vemos se está "OK" com ele;
 
-O terceiro vemos as colunas dele e pegaremos algumas;
+3Bloco: vemos as colunas dele e pegaremos algumas;
 
-O quarto operação pegamos as colunas "City", "Total", "Rating";
+4Bloco: operação pegamos as colunas "City", "Total", "Rating";
 
-No quinto  pegamos a Média que é "6.9727";
+5Bloco: pegamos a Média que é "6.9727";
 
-E no sexto separamos as empresas RUINS das BOAS ;
+6Bloco: E no sexto separamos as empresas RUINS das BOAS ;
 
+7Bloco: Na sétima é um grafico 
+
+8Bloco: adicionar novas empresas e validar as entradas do usuário para manter a integridade dos dados.
+
+9Bloco: permitem a manipulação e visualização dos dados das empresas de maneira interativa e robusta, com a validação de entradas pelo usuário e a visualização gráfica.
+
+10Bloco: que permite remover uma empresa do DataFrame contendo os dados das empresas
+
+11Bloco: cria um menu interativo que permite ao usuário adicionar novas empresas ao DataFrame ou remover empresas existentes.
+
+12Bloco: gerencia todo o processo de cálculo da média de avaliação das empresas, permite a adição ou remoção de empresas, recalcula a média após as alterações e reclassifica as empresas com base na nova média. 
+
+13Bloco: tem como objetivo classificar empresas com base em uma avaliação predefinida (6,97) e categorizá-las como "Boas" ou "Ruins".
+
+14Bloco: Essa linha de código executa o fluxo principal de operações sobre o DataFrame
 
 ### - Irei dizer resumidamente de que forma os conceitos de Machine Learning / IA estão sendo utilizados no desenvolvimento do projeto.
 
 Estamos pegando dados e tratando ele de forma que a IA fica mais dinamica para entender qual é o melhor e o pior cliente, com tudo otimizar
 os ganhos e o desenpenho da empresa.
+
+===============================================================================================================================================
 
 
