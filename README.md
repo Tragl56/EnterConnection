@@ -53,7 +53,7 @@ Abaixo, explicamos as principais seções e operações do código:
     Classifica novamente as empresas em "Boas" ou "Ruins" com base na média atualizada, se necessário.
 
 14. **Bloco 14**: Execução do Fluxo Principal  
-    Contém a linha de código que executa o fluxo principal de operações sobre o DataFrame.
+    Este bloco contém o código responsável por executar o fluxo principal de operações no DataFrame, finalizando com o download das alterações realizadas.
 
 ---
 
