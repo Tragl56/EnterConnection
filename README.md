@@ -1,48 +1,66 @@
-﻿# EnterConnection
+# EnterConnection
 
-## API:https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
-## LINK DO PITCH: https://youtu.be/e_yeYsXnbNc
-## DOCUMENTAÇÃO: https://onedrive.live.com/edit.aspx?resid=442b95dc06c47f3e!sc4435c51-b76f-4e00-98c6-38c4443bf086&cid=442b95dc06c47f3e&ct=1716154271228&wdOrigin=OFFICECOM-HWA.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyDesktop&wdPreviousSession=7e1b0caf-d4fa-45c8-8cc7-f5df6f2187d8
+### Descrição do Projeto
+O EnterConnection é um projeto em desenvolvimento voltado para o uso de dados de vendas de um supermercado para identificar as empresas com melhor desempenho. A partir desses dados, o sistema classifica as empresas em "Boas" ou "Ruins" com base em uma média de avaliação e fornece visualizações e operações interativas para manipulação de dados. Esta é uma versão inicial (Beta) e ainda será aprimorada para sua versão final.
 
+- **API de Dados**: [Supermarket Sales Dataset no Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
+- **Pitch do Projeto**: [Link para o vídeo](https://youtu.be/e_yeYsXnbNc)
+- **Documentação Completa**: [Link para o OneDrive](https://onedrive.live.com/edit.aspx?resid=442b95dc06c47f3e!sc4435c51-b76f-4e00-98c6-38c4443bf086&cid=442b95dc06c47f3e&ct=1716154271228&wdOrigin=OFFICECOM-HWA.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyDesktop&wdPreviousSession=7e1b0caf-d4fa-45c8-8cc7-f5df6f2187d8)
 
+---
 
+### Estrutura do Código e Funcionalidades
 
-### - Irei explicar , de forma breve, o funcionamento dos recursos/ferramentas dentro da aplicação que será desenvolvida.
+Abaixo, explicamos as principais seções e operações do código:
 
-O codigo está simples com apenas algumas mudanças, mas , está longe de ser o resultaco ou o projeto final está mais para BETA.
+1. **Bloco 1**: Importação das Bibliotecas  
+   Contém as importações das bibliotecas e ferramentas necessárias para processamento e visualização de dados.
 
-1Bloco: é só os "IMPORT" das ferramentas que iremos usar;
+2. **Bloco 2**: Leitura e Verificação do Arquivo  
+   Realiza a leitura do arquivo de dados e verifica se o conteúdo está correto para o processamento.
 
-2Bloco: codico  pegamos o arquivo e vemos se está "OK" com ele;
+3. **Bloco 3**: Análise das Colunas  
+   Exibe e seleciona as colunas que serão utilizadas na análise e processamento dos dados.
 
-3Bloco: vemos as colunas dele e pegaremos algumas;
+4. **Bloco 4**: Seleção de Colunas Relevantes  
+   Seleciona as colunas "City", "Total" e "Rating" para análise, que contêm informações de localização, valor total de vendas e classificação.
 
-4Bloco: operação pegamos as colunas "City", "Total", "Rating";
+5. **Bloco 5**: Cálculo da Média  
+   Calcula a média de classificação de empresas (atualmente 6,97) para basear a separação entre "Boas" e "Ruins".
 
-5Bloco: pegamos a Média que é "6.9727";
+6. **Bloco 6**: Classificação de Empresas  
+   Compara a classificação de cada empresa com a média e classifica como "Boa" ou "Ruim" conforme o resultado.
 
-6Bloco: separamos as empresas RUINS das BOAS ;
+7. **Bloco 7**: Visualização de Dados com Gráficos  
+   Gera gráficos para visualizar a distribuição e desempenho das empresas, com destaque para as empresas "Boas" e "Ruins".
 
-7Bloco: Mostramos um grafico ;
+8. **Bloco 8**: Adição de Novas Empresas e Validação  
+   Permite adicionar novas empresas ao conjunto de dados, validando as entradas do usuário para manter a integridade dos dados.
 
-8Bloco: adicionar novas empresas e validar as entradas do usuário para manter a integridade dos dados;
+9. **Bloco 9**: Manipulação e Visualização de Dados  
+   Fornece operações interativas para manipular e visualizar dados das empresas, com validação de entradas e gráficos atualizados.
 
-9Bloco: permitem a manipulação e visualização dos dados das empresas de maneira interativa e robusta, com a validação de entradas pelo usuário e a visualização gráfica;
+10. **Bloco 10**: Remoção de Empresas  
+    Implementa a funcionalidade para remover empresas do DataFrame.
 
-10Bloco: que permite remover uma empresa do DataFrame contendo os dados das empresas;
+11. **Bloco 11**: Menu Interativo para Adição/Remoção  
+    Um menu interativo que permite ao usuário adicionar ou remover empresas do DataFrame conforme necessário.
 
-11Bloco: cria um menu interativo que permite ao usuário adicionar novas empresas ao DataFrame ou remover empresas existentes;
+12. **Bloco 12**: Recalculo da Média e Reclassificação  
+    Após adições ou remoções, recalcula a média de avaliação e reclassifica as empresas para refletir as mudanças.
 
-12Bloco: gerencia todo o processo de cálculo da média de avaliação das empresas, permite a adição ou remoção de empresas, recalcula a média após as alterações e reclassifica as empresas com base na nova média;
+13. **Bloco 13**: Classificação com Base na Média Atualizada  
+    Classifica novamente as empresas em "Boas" ou "Ruins" com base na média atualizada, se necessário.
 
-13Bloco: tem como objetivo classificar empresas com base em uma avaliação predefinida (6,97) e categorizá-las como "Boas" ou "Ruins";
+14. **Bloco 14**: Execução do Fluxo Principal  
+    Contém a linha de código que executa o fluxo principal de operações sobre o DataFrame.
 
-14Bloco: Essa linha de código executa o fluxo principal de operações sobre o DataFrame;
+---
 
-### - Irei dizer resumidamente de que forma os conceitos de Machine Learning / IA estão sendo utilizados no desenvolvimento do projeto.
+### Aplicação de Machine Learning / IA
 
-Estamos pegando dados e tratando ele de forma que a IA fica mais dinamica para entender qual é o melhor e o pior cliente, com tudo otimizar
-os ganhos e o desenpenho da empresa.
+Este projeto utiliza conceitos de Machine Learning/IA na análise e tratamento de dados para dinamizar a compreensão de desempenho das empresas. A partir de técnicas de tratamento de dados, a IA ajuda a identificar padrões que indicam as melhores e piores avaliações de clientes, otimizando estratégias para melhorar o desempenho e maximizar ganhos. Futuras melhorias podem incluir a implementação de modelos preditivos para insights mais avançados.
 
-=======================================================================
+---
+
 
