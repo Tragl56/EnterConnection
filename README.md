@@ -63,4 +63,8 @@ Este projeto utiliza conceitos de Machine Learning/IA na análise e tratamento d
 
 ---
 
+### Reflexão profunda 
 
+Este trabalho aborda uma temática muito relevante, porém, devido a mudanças ocorridas ao longo do projeto — incluindo a saída de alguns integrantes do grupo —, acabou divergindo um pouco do conceito inicialmente planejado. Essas alterações trouxeram desafios que impactaram o foco original. No entanto, apesar dos obstáculos, conseguimos entregar uma versão funcional e alinhada com as expectativas.
+
+Ainda há alguns aspectos que podem ser aprimorados, como uma organização mais estruturada no código. Futuramente, a integração de uma API do ChatGPT também está nos planos, o que permitiria automatizar certas interações e oferecer ainda mais valor às empresas que utilizarem o sistema.
